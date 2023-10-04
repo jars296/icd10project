@@ -1,0 +1,4 @@
+
+jdbcUser=postgres
+jdbcPassword=M\>[#Jvc<Cw\LEsA4;5,a<T#
+jdbcUrl=pgdb.radicaldevelop.com:5432/MedSAM_DEV
